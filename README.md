@@ -8,7 +8,7 @@
  - Cap. 08
 
 ##  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Equipe:
-- Maria Clara Ribeiro
+- [Maria Clara Ribeiro](https://github.com/ClaraRibeiro09)
 - [Sara Vieira Silva](https://github.com/saravs858)
 - [Ana Paula Sena](https://github.com/AnaPaulaSena8)
 - [João Pedro de Andrade Holanda](https://github.com/joaopedrohub)
